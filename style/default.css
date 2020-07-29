@@ -1,0 +1,184 @@
+/* CSS Document */
+
+body{	
+	/*background-image:url(../../images/default/bckgrnd.jpg);*/
+	background:#ffffff;
+	vertical-align:top;
+	margin:0px;
+	padding:0px;
+}
+
+/* HEADER */
+.header{
+	border:0;
+	width:300px;
+	height:160px;
+	position:relative;
+}
+
+.logo_line{height:100px;}
+.logo_img{margin:0 0 0 0;border:0px; float:left;}
+
+.menu_top{
+	width:1100px;
+	height:60px;
+	background:url(../../images/default/menu_hr.png) repeat-x;
+}
+
+.round_box{
+	width:1100px;
+	height:27px;
+	border:1px solid #ffffff;
+	background:url(../../images/default/menu_bg.png) repeat-x;
+	behavior:url(../../border-radius.htc);
+	border-radius:3px;
+	-webkit-border-radius:3px; 
+	-moz-border-radius:2px; 
+	-khtml-border-radius:7px;
+	position:relative;
+}
+
+.links{
+	margin:3px 0 0 2px;
+	text-align:center;
+	width:195px;
+	behavior:url(../../border-radius.htc);
+	border-radius:3px;
+	-webkit-border-radius:3px; 
+	-moz-border-radius:2px; 
+	-khtml-border-radius:7px;
+	float:left;
+	background:url(../../images/default/menu_bg_off.png) repeat-x;
+}
+
+.links a{
+	color:#000000;
+	font-size:18px;
+	text-decoration:none;
+	font-family:Calibri, "Book Antiqua", "Century Gothic";
+	padding:0 0 0 16px;
+}
+
+/*LavaLamp */
+/* Styles for the entire LavaLamp menu */
+.lavaLamp {
+    height: 27px; width: 600px;
+	margin:30px 0 0 0;
+    overflow: hidden;
+	padding:0 10px;
+}
+/* Force the list to flow horizontally */
+.lavaLamp li {
+	float: left;
+	list-style: none;
+}
+/* Represents the background of the highlighted menu-item. */
+.lavaLamp li.back {
+	/*background:url("../../images/default/lava.png") no-repeat right -27px;*/
+	width:9px; height:27px;
+	z-index:8;
+	position:absolute;
+}
+.lavaLamp li.back .left {
+	/*background:url("../../images/default/lava.png");*/
+	height:27px;
+	margin-right:9px;
+	position:relative;
+}
+/* Styles for each menu-item. */
+.lavaLamp li a {
+	position: relative;
+	overflow: hidden;
+	text-decoration: none;
+	font: bold 18px;
+	color: #000000;
+	outline: none;
+	text-align: center;
+	height: 27px;
+	z-index: 10;
+	letter-spacing: 0;
+	float: left;
+	display: block;
+	margin: 3px 25px 0 25px;
+	font-family:Calibri, "Book Antiqua", "Century Gothic";
+}
+
+.lavaLamp li a:hover, .lavaLamp li a:active{color:#0c2465;}
+
+/* END OF LavaLamp */
+/* SEARCH */
+
+.search_box{
+	height:27px; width:170px;
+	float:right;
+	border:solid 1px #000000;
+	margin:20px 0 0 -10px;
+
+	behavior:url("../../PIE.php");
+	border-radius:3px;
+	-webkit-border-radius:3px;
+	-moz-border-radius:2px;
+	-khtml-border-radius:7px;
+	position:relative;
+}
+
+.searchfield{
+	background:none;
+	color:#000000;
+	padding:0px 6px 0px 0px;
+	margin:5px 0 0 0;
+	
+	width:120px;
+	font:normal 13px/100% Calibri, "Book Antiqua", "Century Gothic";
+
+	border:0px;
+	vertical-align:text-bottom;
+	position:relative;
+}
+
+.searchbutton{
+	border:0px;
+	height:27px;
+	width:27px;
+}
+
+/* END OF SEARCH */
+/* END OF HEADER */
+/* CONTENT */
+
+.content{
+	border:0;
+	width:1100px;
+	height:100%;
+	position:relative;
+	padding:15px 30px 40px 30px;
+}
+
+/* END OF CONTENT */
+/* FOOTER */
+
+.footer{
+	border:0;
+	width:1100px;
+	height:100px;
+	margin:0 0 0 0;
+	position:relative;
+}
+
+.copiryght div{text-align:center;}
+.copiryght div a{
+	color:#666;
+	font-size:14px;
+	text-shadow: 2px 1px 3px #aaa;
+	font-family:'Myriad Pro', 'Myriad Pro Cond', 'Myriad Pro Light', 'MS Serif', Calibri;
+	padding: 0px 15px 0px 2px;
+}
+
+a.rubriki_link{
+	font-family:"Trebuchet MS", "Myriad Pro", "Myriad Pro Cond", "Myriad Pro Light";
+	color:#ec4001;
+	font-size:14px;
+	font-weight:bold;
+}
+
+/* END OF FOOTER */

@@ -1,0 +1,344 @@
+# Webalizer V2.21-02 Incremental Data - 12/05/2011 22:58:14
+2011 12 5 22 58 14
+227 157 36 13 9 24 4531186 86 59 0
+10 1 25 1 5
+49 32 978033 10 12 8
+45 15 35666 11 38 22
+9 6 15748 6 7 6
+56 46 1460336 11 16 13
+68 58 2041403 10 13 10
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+26 24 961856 4
+14 12 479032 2
+5 5 19260 5
+24 17 487663 12
+0 0 0 0
+0 0 0 0
+6 5 5316 5
+1 1 2843 0
+2 1 1956 1
+1 1 3852 1
+3 2 5812 2
+6 3 4446 3
+8 1 4227 0
+6 4 7272 4
+8 3 7031 2
+0 0 0 0
+5 3 3926 3
+25 20 596879 6
+14 12 481667 0
+7 5 7276 5
+26 2 9984 24
+26 22 956876 3
+14 14 484012 4
+0 0 0 0
+0
+0
+0
+157
+0
+0
+0
+0
+0
+0
+0
+0
+66
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/
+0 62 0 124249 50 21
+/pifsquare.do.php
+0 1 0 3152 0 0
+/js/jquery.ui/jquery-ui-1.8.9.custom.min.js
+0 10 0 1897082 0 0
+/img/default/search_but.png
+0 8 0 12184 0 0
+/img/default/rss2.png
+0 8 0 26648 0 0
+/img/default/logo.png
+0 8 0 37984 0 0
+/js/jquery.plugins/livequery-1.0.3/jquery.livequery.js
+0 10 0 66880 0 0
+/style/ui-lightness/jquery-ui-1.8.9.custom.css
+0 12 0 341330 0 0
+/style/default.css
+0 12 0 34500 0 0
+/js/jquery/jquery-1.5.js
+0 10 0 1940570 0 0
+/img/default/logo_bgr.png
+0 8 0 8296 0 0
+/pifsquare.php
+0 4 0 11372 0 0
+/img/default/logo_bgr_r.png
+0 8 0 8688 0 0
+# End Of Table - urls
+# -sites- (monthly)
+79.143.187.164
+0 1 1 3852 1 1322908283
+/
+178.66.236.74
+0 10 2 6790 0 0
+-
+94.188.55.44
+0 14 12 481667 0 0
+-
+94.24.154.38
+0 2 2 3360 1 1322864459
+/
+81.95.28.26
+0 14 11 477628 1 1323035102
+/
+66.249.66.205
+0 2 1 1966 1 1322845097
+/
+217.69.134.91
+0 1 0 276 0 0
+-
+66.249.66.226
+0 2 1 534 1 1322737571
+/
+178.210.65.27
+0 1 1 3852 1 1322957890
+/
+188.134.60.98
+0 19 17 588839 1 1323106294
+/
+194.85.91.254
+0 1 1 1680 1 1322789074
+/
+65.52.110.198
+0 2 1 1956 1 1323085441
+/
+85.17.123.28
+0 1 1 1680 1 1323125894
+/
+212.113.37.106
+0 1 0 280 0 0
+-
+87.250.252.240
+0 5 4 8159 3 1322820833
+/
+66.249.72.216
+0 1 1 1680 1 1322997098
+/
+217.69.133.31
+0 2 0 556 0 0
+-
+193.200.150.82
+0 11 11 478972 1 1323035202
+/
+46.191.228.85
+0 1 1 1680 1 1322719846
+/
+193.169.234.254
+0 2 2 0 2 1322928599
+/
+95.108.151.244
+0 24 16 29088 12 1323106875
+/
+89.178.150.26
+0 13 11 477352 1 1323045385
+/
+78.108.81.253
+0 2 2 0 1 1322980148
+/
+65.52.109.153
+0 2 1 1956 1 1322813450
+/
+95.108.150.235
+0 12 8 14552 3 1322971046
+/
+41.234.245.234
+0 25 2 9708 10 1322859471
+-
+193.200.150.125
+0 22 22 957944 2 1323044572
+/
+188.134.14.87
+0 13 11 477352 1 1323049887
+/
+195.239.178.205
+0 5 5 19260 5 1323052956
+/
+66.249.66.123
+0 1 0 276 0 0
+-
+114.79.50.133
+0 2 1 4128 1 1322934653
+-
+41.234.248.68
+0 1 0 276 1 1322860669
+-
+66.249.66.187
+0 2 1 1960 1 1322845065
+/
+188.40.70.106
+0 1 1 3852 1 1323075905
+/
+95.25.147.7
+0 8 6 467799 1 1322710252
+/
+188.35.19.44
+0 1 0 276 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+217.69.134.91
+0 1 0 276 0 0
+-
+188.134.60.98
+0 19 17 588839 1 1323106294
+/
+65.52.110.198
+0 2 1 1956 1 1323085441
+/
+85.17.123.28
+0 1 1 1680 1 1323125894
+/
+95.108.151.244
+0 6 4 7272 2 1323106875
+/
+89.178.150.26
+0 13 11 477352 1 1323045385
+/
+193.200.150.125
+0 11 11 478972 1 1323044572
+/
+188.134.14.87
+0 13 11 477352 1 1323049887
+/
+195.239.178.205
+0 1 1 3852 1 1323052956
+/
+188.40.70.106
+0 1 1 3852 1 1323075905
+/
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 145
+http://www.diary.ru/~Naranjado/?favorite
+0 2
+http://yandex.ru/yandsearch?text=bargamut.ru
+0 1
+http://vkontakte.ru/chelbayan
+0 1
+http://vkontakte.ru/id31975174
+0 1
+http://vkontakte.ru/mail?act=show&id=29786
+0 1
+http://bargamut.ru/style/default.css
+0 2
+http://bargamut.ru/pifsquare.php
+0 18
+http://bargamut.ru/
+0 53
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 41
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.13) Gecko/2009082120 Iceweasel/3.0.12 (Debian-3.0.12-1)
+0 1
+Mozilla/5.0 (Ubuntu; X11; Linux i686; rv:9.0) Gecko/20100101 Firefox/9.0
+0 14
+Mozilla/5.0 (Windows NT 5.1; rv:8.0) Gecko/20100101 Firefox/8.0
+0 13
+http://Anonymouse.org/ (Unix)
+0 33
+Mozilla/5.0 (compatible; AhrefsBot/1.0; +http://ahrefs.com/robot/)
+0 1
+Opera/9.51 (Windows NT 5.1; U; ru)
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506)
+0 8
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+0 14
+Mozilla/5.0
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.8.1.9) Gecko/20071025 Firefox/2.0.0.9
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 8
+Mail.RU/2.0
+0 3
+Mozilla/5.0 (X11; U; Linux i686; ru; rv:1.9.2.12) Gecko/20101027 Ubuntu/10.10 (maverick) Firefox/3.6.12
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) Chrome/7.0.512.31 Safari/533.1
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+0 19
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 4
+Mozilla/5.0 (compatible; Nigma.ru/3.0; crawler@nigma.ru)
+0 5
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.1.7) Gecko/20091221 Firefox/3.5.7 (.NET CLR 3.5.30729)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; AskTbMPC2/5.11.0.15286)
+0 2
+Mozilla/5.0 (compatible; stat.cctld.ru/Bot; +http://stat.cctld.ru/bot.html)
+0 2
+Mozilla/3.0 (compatible; Indy Library)
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; GTB7.2; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.
+0 26
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+0 23
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
